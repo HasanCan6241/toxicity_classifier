@@ -1,6 +1,12 @@
 # 🌐 Turkish Bullying Classification Project using Hugging Face Model & Django
 
-![Python](https://www.python.org/static/community_logos/python-logo.png) ![Transformers](https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.png) ![Django](https://static.djangoproject.com/img/logos/django-logo-negative.png) ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100" />
+  <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.png" alt="Transformers" width="150" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="120" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="120" />
+</p>
+
 
 ## 🎯 Project Overview
 
