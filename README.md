@@ -3,7 +3,9 @@
 
 ## 🎯 Project Overview
 
-This project integrates **Hugging Face's [Nane Limon bert-base-turkish-bullying model]([https://huggingface.co/ahmetozlu/nane-limon-bert-base-turkish-bullying](https://huggingface.co/nanelimon/bert-base-turkish-bullying))** into a Django framework to classify Turkish text comments into four categories:
+This project integrates Hugging Face's [Nane Limon bert-base-turkish-bullying model](https://huggingface.co/ahmetozlu/nane-limon-bert-base-turkish-bullying) into a Django framework to classify Turkish text comments into four 
+categories:
+
 
 - **Insult** 🗣️
 - **Neutral** 😐
@@ -54,7 +56,7 @@ The aim is to create a user-friendly web interface that identifies and categoriz
 ## 🚀 Purpose & Benefits
 
 - **Purpose**:  
-  To leverage machine learning for the automatic detection of harmful or offensive content in Turkish, making online platforms safer and more inclusive.
+ Utilizing the transformer model to automatically detect harmful or offensive content in Turkish, making online platforms safer and more inclusive.
 
 - **Benefits**:  
   - **Efficient Moderation**: Automate the content moderation process by quickly identifying toxic comments.
