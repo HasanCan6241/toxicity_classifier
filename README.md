@@ -3,7 +3,7 @@
 
 ## 🎯 Project Overview
 
-This project integrates Hugging Face's [Nane Limon bert-base-turkish-bullying model](https://huggingface.co/ahmetozlu/nane-limon-bert-base-turkish-bullying) into a Django framework to classify Turkish text comments into four 
+This project integrates Hugging Face's [Nane Limon bert-base-turkish-bullying model](https://huggingface.co/nanelimon/bert-base-turkish-bullying) into a Django framework to classify Turkish text comments into four 
 categories:
 
 
