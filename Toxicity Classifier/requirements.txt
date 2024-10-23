@@ -1,0 +1,3 @@
+Django==5.1.2
+transformers==4.45.2
+asgiref==3.7.2
