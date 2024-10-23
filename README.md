@@ -1,13 +1,5 @@
 # 🌐 Turkish Bullying Classification Project using Hugging Face Model & Django
 
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100" />
-  <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.png" alt="Transformers" width="150" />
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="120" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="120" />
-</p>
-
-
 ## 🎯 Project Overview
 
 This project integrates **Hugging Face's [Nane Limon bert-base-turkish-bullying model]([https://huggingface.co/ahmetozlu/nane-limon-bert-base-turkish-bullying](https://huggingface.co/nanelimon/bert-base-turkish-bullying))** into a Django framework to classify Turkish text comments into four categories:
