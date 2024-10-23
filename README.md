@@ -65,7 +65,7 @@ The aim is to create a user-friendly web interface that identifies and categoriz
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/repo.git
+    git clone https://github.com/HasanCan6241/toxicity_classifier.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -92,6 +92,3 @@ The aim is to create a user-friendly web interface that identifies and categoriz
 - **Improved Accuracy**: Regularly fine-tune the model with more data to improve the accuracy of classifications.
 - **Language Support**: Introduce multilingual support for other languages beyond Turkish.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
