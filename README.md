@@ -71,7 +71,7 @@ The aim is to create a user-friendly web interface that identifies and categoriz
     ```
 2. Navigate to the project directory:
     ```bash
-    cd repo
+    cd toxicity_classifier
     ```
 3. Install the required dependencies:
     ```bash
